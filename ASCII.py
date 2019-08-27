@@ -1,0 +1,2 @@
+a=input("ENTER THE CHARACTER")
+print("THE ASCII VALUE OF THE CHARACTER IS",ord(a))
